@@ -9,4 +9,5 @@ spec:
     - name: nginx-container
       image: nginx
 
-# Kubectrl create -f pod-definition.yml
+# Command to create pod from this definition file
+# Kubectl create -f Create-POD.yaml
